@@ -5,6 +5,11 @@ A comprehensive job search and application platform built with Laravel, featurin
 ## Deployed LINKS 
 - PostMan: `http://49.13.233.60/docs?api-docs.json` or  can be found in `/storage/api-docs/api-docs.json`
 - Swagger Documentation: `http://49.13.233.60/api/documentation`
+
+#### 🚧 User this since the implementation requires mailtrap email verification
+USER: `"email": "User@example.com" | "password": "Password123!"`
+COMPANY: `"email": "company@example.com" | "password": "Password123!"`
+
 ## 🚀 Features Implemented
 
 - **User Authentication**: JWT-based authentication with email verification
