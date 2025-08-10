@@ -2,6 +2,9 @@
 
 A comprehensive job search and application platform built with Laravel, featuring user authentication, email verification, and role-based access control.
 
+## Deployed LINKS 
+- PostMan: `http://49.13.233.60/docs?api-docs.json`
+- Swagger Documentation: `http://49.13.233.60/api/documentation`
 ## 🚀 Features Implemented
 
 - **User Authentication**: JWT-based authentication with email verification
